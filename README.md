@@ -5,6 +5,9 @@
 </div>
 
 <div align="center">
+  <h1>Saleor Commerce</h1>
+</div>
+<div align="center">
   <strong>Customer-centric e-commerce on a modern stack</strong>
 </div>
 
